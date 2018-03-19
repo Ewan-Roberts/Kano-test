@@ -37,7 +37,7 @@ let io = require("socket.io").listen(server)
 //Establish link with the front end and handle socket events
 io.on("connection", socket => { 
 
-    request("http://samples.openweathermap.org/data/2.5/forecast/daily?id=524901&appid=b1b15e88fa797225412429c1c50c122a1", (error, response,body) => {
+    request("foo", (error, response,body) => {
 
         if (error) {event.emit("error", new Error("fetchweatherData: " + error))}
 
