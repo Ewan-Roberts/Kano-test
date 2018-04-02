@@ -1,3 +1,8 @@
+This is an updated Kano development test as the first was terrible
+
+Also React turns out to be quite good after all.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
