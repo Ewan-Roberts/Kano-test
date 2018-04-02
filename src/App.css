@@ -1,0 +1,212 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40px;
+  fill: white;
+}
+
+.App-header {
+  background-color: #368DF6;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-body {
+  
+  background-color: white;
+  padding: 10px;
+}
+
+.App-intro {
+  font-size: large;
+  height: 100%;
+}
+
+.App-search {
+  padding: 1em;
+  width: 100%;
+  float: left;
+
+}
+
+.highlight {
+  
+  
+  border-bottom: 3px solid red;
+  background-color: green;
+}
+
+.App-search .filter{
+  
+  float: right;
+  margin-bottom: 3px;
+
+}
+
+.App-search .filter p {
+  
+  cursor: pointer;
+  display: block;
+  margin-right: 100px;
+  float: left;
+  font-weight: bold;
+  border-bottom: 3px solid transparent;
+
+}
+
+.App-light-box {
+
+  position: absolute;
+  width: 200px;
+  height: 400px;
+  background-color: grey;
+
+
+}
+
+
+
+.App-search .filter .like-filter p:hover {
+  
+  border-bottom: 3px solid red;
+
+}
+
+.special {
+  
+  border-bottom: 3px solid red !important;
+
+}
+
+
+
+input[type=text] {
+  float: left;
+  height: 30px;
+  background-color: white;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  background-image: url('https://www.w3schools.com/css/searchicon.png');
+  background-position: 5px 5px; 
+  background-repeat: no-repeat;
+  padding-left: 40px;
+}
+
+.App-search .title {
+  
+  width: 10%;
+  float: left;
+  background-color: green;
+
+}
+
+.App-slide {
+  display: block;
+  height: 300px;
+  width: 300px;
+  border-radius: 8px;
+  box-shadow: 0 1px 20px 0 rgba(0, 0, 0, 0.19);
+  background-color: white;
+  margin: 10px;
+  float: left;
+  padding: 1%;
+
+
+}
+
+.App-no-result {
+  display: none;
+
+}
+
+
+.App-slide img {
+  
+  
+  width: 100%;
+  height: 60%;
+
+}
+
+.App-slide .title {
+  
+  width: 100%;
+  text-align: left;
+  font-weight: bold;
+  margin-top: 5%;
+
+  float: left;
+  
+
+}
+
+.App-slide .userName {
+  
+  width: 100%;
+  text-align: left;
+  color: grey;
+  margin-top: 2%;
+  float: left;
+  
+
+}
+
+.App-slide .userName p {
+
+  float: none;
+  
+
+}
+
+.App-slide .likes {
+  
+  width: 100%;
+  margin-top: 30px;
+  float: left;
+  height: 20px;
+
+}
+
+.App-slide .likes img {
+  
+  float: left;
+  width: 20px;
+  height: 20px;
+
+}
+
+.App-slide .likes p {
+  
+  float: left;
+  margin: 0;
+  margin-top: 3px;
+  margin-left: 5px;
+  color: grey;
+  
+
+}
+
+/*.App-slide .likes img {
+  
+  width: 5%;
+  margin-top: 2%; 
+  
+  bottom: 5px;
+  float: left;
+  
+
+}*/
+
+/*
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+*/
