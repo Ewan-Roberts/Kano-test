@@ -1,6 +1,8 @@
 This is an updated Kano development test as the first was terrible
 
-Also React turns out to be quite good after all.
+Also React turns out to be quite good after all. Mixing JS with HTML was not so bad after all.
+
+CSS continues to be deeply boring
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
