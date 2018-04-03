@@ -1,6 +1,6 @@
 This is an updated Kano development test as the first was terrible
 
-Also React turns out to be quite good after all. Mixing JS with HTML was not so bad after all.
+Used as a little refresh on using React. Its obvioustly not split up and tested etc but just a play aorund.
 
 CSS continues to be deeply boring
 
